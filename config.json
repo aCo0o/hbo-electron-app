@@ -1,0 +1,11 @@
+{
+    "dev"       : false,
+    "path"      : "./public/index.html",
+    "window"    : {
+        "width"         : 970,
+        "height"        : 650,
+        "frame"         : true,
+        "show"          : false,
+        "titleBarStyle" : "hidden"
+    }
+}

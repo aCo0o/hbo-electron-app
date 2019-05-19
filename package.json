@@ -1,0 +1,16 @@
+{
+  "name": "hbo-electron-app",
+  "version": "1.0.0",
+  "description": "hbo-electron-app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "a.Cincarevic",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "^1.8.3"
+  }
+}
