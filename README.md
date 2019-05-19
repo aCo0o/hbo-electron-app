@@ -1,2 +1,2 @@
 # hbo-electron-app
-HBO Desktop App
+HBO Desktop App built with Electron
